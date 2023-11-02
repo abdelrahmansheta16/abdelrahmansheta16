@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelrahmansheta16
 - 👀 I’m interested in learning new features
-- 🌱 I’m currently learning smart contract development 
+- 🌱 I’m currently **Ethereum** and **Solidity** 
 - 📫 How to reach me abdelrahman.sheta16@gmail.com 
 
 <!---
