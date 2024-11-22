@@ -31,7 +31,8 @@ const techStack = {
 - 📈 Improved user engagement by 30% through optimized frontend development
 
 ### 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmansheta16)](https://github.com/abdelrahmansheta16/github-readme-stats)
+![abdelrahmansheta16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmansheta16&theme=vue-dark&hide_border=true)
+![abdelrahmansheta16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansheta16&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🌱 Currently Working On
 - Expanding knowledge in Layer 2 scaling solutions
