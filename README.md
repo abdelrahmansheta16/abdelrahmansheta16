@@ -1,6 +1,6 @@
 # 👨‍💻 Abdelrahman Sheta | Full Stack Web3 Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-m-sheta/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.sheta16@gmail.com)
 
 ### 🚀 About Me
@@ -33,8 +33,6 @@ const techStack = {
 ### 📊 GitHub Stats
 ![abdelrahmansheta16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmansheta16&theme=vue-dark&hide_border=true)
 
-![abdelrahmansheta16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansheta16&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ### 🌱 Currently Working On
 - Expanding knowledge in Layer 2 scaling solutions
 - Contributing to open-source blockchain projects
@@ -43,7 +41,7 @@ const techStack = {
 ### 📫 Let's Connect!
 Feel free to reach out for collaborations or just a chat about blockchain technology!
 - 📧 Email: abdelrahman.sheta16@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: https://www.linkedin.com/in/abdelrahman-m-sheta/
 
 > "Building the decentralized future, one block at a time." 🔗
 
