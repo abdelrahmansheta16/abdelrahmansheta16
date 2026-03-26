@@ -138,6 +138,7 @@ I deliver complete systems, including:
 </p>
 
 ---
+<!--
 
 ## Featured Projects
 
@@ -166,7 +167,7 @@ I deliver complete systems, including:
 - **portfolio-website** — Personal portfolio built with Next.js and Tailwind CSS
 
 ---
-
+-->
 ## Current Focus
 
 I am currently focused on:
